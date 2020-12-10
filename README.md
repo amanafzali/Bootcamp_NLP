@@ -45,10 +45,10 @@ Then I have looked at the ngrams and word frequency for each coin.
 
 Finally, I generate word clouds for each coin to summarize the news for each coin.
 
-![btc_wc](https://github.com/amanafzali/Bootcamp_NLP/blob/main/pictures/Bitcoin%20WC.PNG?raw=true)
+![btc_wc](https://github.com/amanafzali/Bootcamp_NLP/blob/main/pictures/Bitcoin%20WC1.PNG?raw=true)
 
 
-![eth_wc](https://github.com/amanafzali/Bootcamp_NLP/blob/main/pictures/Ethereum%20WC.PNG?raw=true)
+![eth_wc](https://github.com/amanafzali/Bootcamp_NLP/blob/main/pictures/Ethereum%20WC1.PNG?raw=true)
 
 
 
